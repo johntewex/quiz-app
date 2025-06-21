@@ -678,7 +678,7 @@ export default function QuizApp() {
         width: 140px;
         height: 140px;
         border-radius: 50%;
-        background-color: #4CAF50;
+        background-color:#8B1C62;
         color: white;
         font-size: 1.1rem;
         font-weight: bold;
