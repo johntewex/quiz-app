@@ -650,15 +650,50 @@ export default function QuizApp() {
       <h1 className="text-2xl font-bold mb-4">🎉 Quiz App</h1>
 
       {stage === "category" && (
-        <div>
-          <p className="mb-2">Choose a category:</p>
-          {Object.keys(questionSets).map((cat, idx) => (
-            <button key={idx} onClick={() => selectCategory(cat)} className="block w-full bg-blue-100 hover:bg-blue-200 py-2 my-1 rounded">
-              {cat.charAt(0).toUpperCase() + cat.slice(1)}
-            </button>
-          ))}
-        </div>
-      )}
+  <div className="category-selection">
+    <p className="mb-4 text-lg font-medium">Choose a category:</p>
+    <div className="circle-button-container">
+      {Object.keys(questionSets).map((cat, idx) => (
+        <button
+          key={idx}
+          onClick={() => selectCategory(cat)}
+          className="circle-button"
+        >
+          {cat.charAt(0).toUpperCase() + cat.slice(1)}
+        </button>
+      ))}
+    </div>
+
+    {/* Add styles here */}
+    <style>{`
+      .circle-button-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+        margin-top: 20px;
+      }
+
+      .circle-button {
+        width: 140px;
+        height: 140px;
+        border-radius: 50%;
+        background-color: #4CAF50;
+        color: white;
+        font-size: 1.1rem;
+        font-weight: bold;
+        border: none;
+        cursor: pointer;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+      }
+
+      .circle-button:hover {
+        background-color: #3e9143;
+        transform: scale(1.05);
+      }
+    `}</style>
+  </div>
+)}
 
       {stage === "subcategory" && (
         <div>
