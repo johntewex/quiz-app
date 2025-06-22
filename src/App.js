@@ -654,8 +654,9 @@ export default function QuizApp() {
   }
 
   return (
-    <div className="p-4 max-w-xl mx-auto text-center max-h-screen overflow-y-auto">
-      <h1 className="text-2xl font-bold mb-4">Fun with Friends</h1>
+    <div className="min-h-screen overflow-y-auto bg-white p-4 text-center">
+    <div className="max-w-xl mx-auto">
+      <h1 className="text-2xl font-bold mb-4">🎉Fun with Friends</h1>
 
       {stage === "category" && (
   <div className="category-selection">
