@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { useState, useEffect } from "react";
 
 const questionSets = {
   comedy: {
@@ -599,6 +600,12 @@ export default function QuizApp() {
   const [score, setScore] = useState(0);
   const [showResult, setShowResult] = useState(false);
   const [userAnswers, setUserAnswers] = useState([]);
+
+  useEffect(() => {
+    if (showResult) {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+  }, [showResult]);
   
   function selectCategory(category) {
     setSelectedCategory(category);
