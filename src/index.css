@@ -1,9 +1,11 @@
 body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
+  margin: 0;
+  height: 100%;
+  overflow-y: auto;
+  font-family: sans-serif;
+  background-color: white;
 }
+
 
 
 .container {
