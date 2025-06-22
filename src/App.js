@@ -602,6 +602,12 @@ export default function QuizApp() {
   const [showResult, setShowResult] = useState(false);
   const [userAnswers, setUserAnswers] = useState([]);
 
+  useEffect(() => {
+  if (showResult) {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+  }, [showResult]);
+  
   function selectCategory(category) {
     setSelectedCategory(category);
     setStage("subcategory");
@@ -611,13 +617,6 @@ export default function QuizApp() {
     setSelectedSubCategory(subcat);
     setStage("count");
   }
-
-  useEffect(() => {
-  if (showResult) {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  }
-}, [showResult]);
-
 
   function selectQuestionCount(count) {
     setQuestionCount(count);
