@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { useState, useEffect } from "react";
 
 
 const questionSets = {
@@ -610,6 +611,13 @@ export default function QuizApp() {
     setSelectedSubCategory(subcat);
     setStage("count");
   }
+
+  useEffect(() => {
+  if (showResult) {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+}, [showResult]);
+
 
   function selectQuestionCount(count) {
     setQuestionCount(count);
