@@ -1,0 +1,271 @@
+{
+  "Comedy": {
+    "Big Bang Theory": [
+      {
+        "question": "What is the name of Sheldon's favorite spot on the couch?",
+        "answers": [
+          { "text": "Left corner", "correct": false },
+          { "text": "Middle seat", "correct": false },
+          { "text": "His spot", "correct": true },
+          { "text": "Cushion zone", "correct": false }
+        ]
+      },
+      {
+        "question": "Which cereal box toy did Sheldon accuse Leonard of stealing?",
+        "answers": [
+          { "text": "Red decoder ring", "correct": false },
+          { "text": "Battlestar Galactica figurine", "correct": false },
+          { "text": "Flash ring", "correct": false },
+          { "text": "Mr. Spock action figure", "correct": true }
+        ]
+      },
+      {
+        "question": "What did Howard do to get banned from the Mars Rover lab?",
+        "answers": [
+          { "text": "Accidentally crashed the rover", "correct": true },
+          { "text": "Stole a sample", "correct": false },
+          { "text": "Hacked the control system", "correct": false },
+          { "text": "Let Raj operate the rover remotely", "correct": false }
+        ]
+      },
+      {
+        "question": "Which video game made Penny rage-quit and punch Sheldon?",
+        "answers": [
+          { "text": "Halo", "correct": false },
+          { "text": "World of Warcraft", "correct": false },
+          { "text": "Age of Conan", "correct": true },
+          { "text": "Skyrim", "correct": false }
+        ]
+      },
+      {
+        "question": "What is Amy's field of expertise?",
+        "answers": [
+          { "text": "Astrophysics", "correct": false },
+          { "text": "Neurobiology", "correct": true },
+          { "text": "Microbiology", "correct": false },
+          { "text": "Mechanical engineering", "correct": false }
+        ]
+      },
+      {
+        "question": "Which character once dressed as Doppler Effect at a party?",
+        "answers": [
+          { "text": "Leonard", "correct": false },
+          { "text": "Howard", "correct": false },
+          { "text": "Raj", "correct": false },
+          { "text": "Sheldon", "correct": true }
+        ]
+      },
+      {
+        "question": "What is Raj's dog's name?",
+        "answers": [
+          { "text": "Priya", "correct": false },
+          { "text": "Cinnamon", "correct": true },
+          { "text": "Chutney", "correct": false },
+          { "text": "Buttercup", "correct": false }
+        ]
+      },
+      {
+        "question": "In which episode does Sheldon first say 'Bazinga'?",
+        "answers": [
+          { "text": "Season 2, The Codpiece Topology", "correct": false },
+          { "text": "Season 2, The Monopolar Expedition", "correct": false },
+          { "text": "Season 2, The Vegas Renormalization", "correct": false },
+          { "text": "Season 2, The Monopolar Expedition (tag scene)", "correct": true }
+        ]
+      },
+      {
+        "question": "Who officiated Sheldon and Amy’s wedding?",
+        "answers": [
+          { "text": "Leonard", "correct": false },
+          { "text": "Stephen Hawking", "correct": false },
+          { "text": "Mark Hamill", "correct": true },
+          { "text": "Wil Wheaton", "correct": false }
+        ]
+      },
+      {
+        "question": "What password does Sheldon use for his computer?",
+        "answers": [
+          { "text": "Bazinga123", "correct": false },
+          { "text": "Password", "correct": false },
+          { "text": "PennyIsAnnoying", "correct": false },
+          { "text": "Schoenberg", "correct": true }
+        ]
+      },
+      {
+        "question": "Which comic book character does Sheldon claim is 'just a guy in a suit'?",
+        "answers": [
+          { "text": "Iron Man", "correct": false },
+          { "text": "Batman", "correct": true },
+          { "text": "Green Lantern", "correct": false },
+          { "text": "Aquaman", "correct": false }
+        ]
+      },
+      {
+        "question": "What did Penny major in before dropping out of college?",
+        "answers": [
+          { "text": "Theater", "correct": true },
+          { "text": "Psychology", "correct": false },
+          { "text": "Nursing", "correct": false },
+          { "text": "Fashion Design", "correct": false }
+        ]
+      },
+      {
+        "question": "How did Sheldon’s dad die?",
+        "answers": [
+          { "text": "Heart attack", "correct": true },
+          { "text": "Car crash", "correct": false },
+          { "text": "Cancer", "correct": false },
+          { "text": "Plane crash", "correct": false }
+        ]
+      },
+      {
+        "question": "What food does Sheldon eat every Tuesday?",
+        "answers": [
+          { "text": "Pizza", "correct": false },
+          { "text": "Spaghetti with little hot dogs", "correct": true },
+          { "text": "Tuna sandwich", "correct": false },
+          { "text": "Eggplant Parmesan", "correct": false }
+        ]
+      },
+      {
+        "question": "Which gaming console does Sheldon cry over in the store?",
+        "answers": [
+          { "text": "Xbox 360", "correct": false },
+          { "text": "PlayStation 3", "correct": true },
+          { "text": "Wii", "correct": false },
+          { "text": "GameCube", "correct": false }
+        ]
+      },
+      {
+        "question": "What instrument does Amy play?",
+        "answers": [
+          { "text": "Harp", "correct": true },
+          { "text": "Violin", "correct": false },
+          { "text": "Flute", "correct": false },
+          { "text": "Clarinet", "correct": false }
+        ]
+      },
+      {
+        "question": "What does Leonard gift Penny that makes her cry?",
+        "answers": [
+          { "text": "A car", "correct": false },
+          { "text": "A scrapbook", "correct": false },
+          { "text": "A snowflake from the North Pole", "correct": true },
+          { "text": "A signed Batman comic", "correct": false }
+        ]
+      },
+      {
+        "question": "Which language does Sheldon learn to insult his enemies more efficiently?",
+        "answers": [
+          { "text": "Mandarin", "correct": false },
+          { "text": "Klingon", "correct": true },
+          { "text": "Russian", "correct": false },
+          { "text": "Elvish", "correct": false }
+        ]
+      },
+      {
+        "question": "What was the name of Sheldon's childhood TV science show hero?",
+        "answers": [
+          { "text": "Professor Proton", "correct": true },
+          { "text": "Doctor Cosmos", "correct": false },
+          { "text": "Captain Atom", "correct": false },
+          { "text": "Quantum Man", "correct": false }
+        ]
+      },
+      {
+        "question": "What did Howard invent that went to space?",
+        "answers": [
+          { "text": "A camera system", "correct": false },
+          { "text": "A robotic arm", "correct": true },
+          { "text": "Thermal insulator", "correct": false },
+          { "text": "Satellite antenna", "correct": false }
+        ]
+      },
+      {
+        "question": "Which female character dated both Leonard and Raj?",
+        "answers": [
+          { "text": "Emily", "correct": false },
+          { "text": "Lucy", "correct": false },
+          { "text": "Claire", "correct": false },
+          { "text": "Elizabeth Plimpton", "correct": true }
+        ]
+      }
+    ]
+  },
+  "General Knowledge": {
+    "Geography": [
+      {
+        "question": "What is the capital of Zimbabwe?",
+        "answers": [
+          { "text": "Harare", "correct": true },
+          { "text": "Bulawayo", "correct": false },
+          { "text": "Mutare", "correct": false },
+          { "text": "Gweru", "correct": false }
+        ]
+      },
+      {
+        "question": "Which river forms the border between Zimbabwe and Zambia?",
+        "answers": [
+          { "text": "Zambezi", "correct": true },
+          { "text": "Limpopo", "correct": false },
+          { "text": "Save", "correct": false },
+          { "text": "Pungwe", "correct": false }
+        ]
+      }
+    ],
+    "History": [
+      {
+        "question": "When did Zimbabwe gain independence?",
+        "answers": [
+          { "text": "1980", "correct": true },
+          { "text": "1975", "correct": false },
+          { "text": "1990", "correct": false },
+          { "text": "1965", "correct": false }
+        ]
+      },
+      {
+        "question": "Who was the first Prime Minister of Zimbabwe?",
+        "answers": [
+          { "text": "Robert Mugabe", "correct": true },
+          { "text": "Joshua Nkomo", "correct": false },
+          { "text": "Canaan Banana", "correct": false },
+          { "text": "Emmerson Mnangagwa", "correct": false }
+        ]
+      }
+    ]
+  },
+  "Culture": {
+    "Traditions": [
+      {
+        "question": "In Shona culture, what is 'roora'?",
+        "answers": [
+          { "text": "Bride price / dowry", "correct": true },
+          { "text": "Traditional dance", "correct": false },
+          { "text": "Harvest festival", "correct": false },
+          { "text": "Ancestral spirit", "correct": false }
+        ]
+      },
+      {
+        "question": "Which Zimbabwean festival celebrates new harvests?",
+        "answers": [
+          { "text": "First Fruits (Mutoro)", "correct": true },
+          { "text": "Christmas", "correct": false },
+          { "text": "Chimurenga", "correct": false },
+          { "text": "Nyaradzo", "correct": false }
+        ]
+      }
+    ],
+    "Respect": [
+      {
+        "question": "In Zimbabwean culture, how do younger people traditionally show respect to elders?",
+        "answers": [
+          { "text": "By kneeling or bowing slightly when greeting", "correct": true },
+          { "text": "By avoiding greetings", "correct": false },
+          { "text": "By sitting higher than elders", "correct": false },
+          { "text": "By giving them gifts daily", "correct": false }
+        ]
+      }
+    ]
+  }
+}
+
