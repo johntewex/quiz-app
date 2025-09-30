@@ -243,5 +243,6 @@ function QuizApp() {
     </div>
   );
 }
+export default QuizApp;
 
 
