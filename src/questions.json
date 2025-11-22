@@ -251,12 +251,12 @@
         ]
       },
       {
-        "question": "When did Zimbabwe gain independence?",
+        "question": "How long is the Masvingo - Harare stretch?",
         "answers": [
-          { "text": "1980", "correct": true },
-          { "text": "1975", "correct": false },
-          { "text": "1990", "correct": false },
-          { "text": "1965", "correct": false }
+          { "text": "300km", "correct": false },
+          { "text": "190km", "correct": false },
+          { "text": "293km", "correct": true },
+          { "text": "200km", "correct": false }
         ]
       },
       {
@@ -289,9 +289,9 @@
       {
         "question": "Which is wrong here?",
         "answers": [
-          { "text": "Chipolopolo", "correct": true },
+          { "text": "Chipolopolo", "correct": false },
           { "text": "Indomitable Lions", "correct": false },
-          { "text": "Sables", "correct": false },
+          { "text": "Sables", "correct": true },
           { "text": "Bafana bafana", "correct": false }
         ]
       },
@@ -325,10 +325,10 @@
       {
         "question": "Which list is correct?",
         "answers": [
-          { "text": "Alick Macheso, Jah Prayzah, First Farai", "correct": true },
+          { "text": "Alick Macheso, Jah Prayzah, First Farai", "correct": false },
           { "text": "Koffie Olomide,Rokie, Oliver Mtukudzi",  "correct": false },
           { "text": "Winky D, Dadza D, Shingisai Siluma", "correct": false },
-          { "text": "Thomas Mapfumo, Chiwoniso Maraire, Stella Chiweshe", "correct": false }
+          { "text": "Thomas Mapfumo, Chiwoniso Maraire, Stella Chiweshe", "correct": true }
         ]
       }
     ]
@@ -336,12 +336,75 @@
   "Culture": {
     "Traditions": [
       {
-        "question": "In Shona culture, what is 'roora'?",
+        "question": "In Shona culture, what happens at 'marooro'?",
         "answers": [
-          { "text": "Bride price / dowry", "correct": true },
-          { "text": "Traditional dance", "correct": false },
-          { "text": "Harvest festival", "correct": false },
-          { "text": "Ancestral spirit", "correct": false }
+          { "text": "A black goat is eaten", "correct": false },
+          { "text": "the son in law and family are beaten", "correct": false },
+          { "text": "father in law gives his daughter to the care of the son in law", "correct": true },
+          { "text": "the mother in law leads the proceedings", "correct": false }
+        ]
+      },
+      {
+        "question": "In Shona culture, what is the role of  'ana tete'?",
+        "answers": [
+          { "text": "to receive gifts and ullullate at weddings", "correct": false },
+          { "text": "to give advise and see that the familys' daughters behave", "correct": true },
+          { "text": "to work in the fields", "correct": false },
+          { "text": "to cook at funerals", "correct": false }
+        ]
+      },
+      {
+        "question": "What happens to the children of your brother if he passes away? say you are the remaining brother",
+        "answers": [
+          { "text": "They become my children ", "correct": true },
+          { "text": "Their mother takes care of them", "correct": false },
+          { "text": "They can do whatever they want", "correct": false },
+          { "text": "They can come work for me", "correct": false }
+        ]
+      },
+      {
+        "question": "What is the structure of the family in a typical Afican home?",
+        "answers": [
+          { "text": "We are equal because we love each other", "correct": false },
+          { "text": "The father is the leader of the house", "correct": true },
+          { "text": "The children can call their parents with their name", "correct": false },
+          { "text": "The women are independent and can do as they wish.", "correct": false }
+        ]
+      },
+      {
+        "question": "What is wrong about an ox drawn plough and an ox drawn cultivator?",
+        "answers": [
+          { "text": "both are used in soil preparation", "correct": false },
+          { "text": "plough is for surface tillage and cultivator is for deeper soil turning", "correct": true },
+          { "text": "ox drawn cultivator is chikoforo", "correct": false },
+          { "text": "castrated oxen are mostly used", "correct": false }
+        ]
+      },
+      {
+        "question": "Our culture frowns upon cohabitation. Why ?",
+        "answers": [
+          { "text": "because we are unlearned and not moving with the times", "correct": false },
+          { "text": "We are very spiritualistic", "correct": false },
+          { "text": "It destroys a clear understanding of what a real family is", "correct": true },
+          { "text": "The father in law needs the money for marriage", "correct": false }
+        ]
+      },
+      {
+        "question": "What is true about old people living in the rural country side?",
+        "answers": [
+          { "text": "they are witches", "correct": false },
+          { "text": "they drink a lot of traditional beer every day", "correct": false },
+          { "text": "they hate the urban folks", "correct": false },
+          { "text": "they are the custodians of herbal medicines", "correct": true }
+        ]
+      },
+      {
+        "question": "What happens if a member of a community dies'?",
+        "answers": [
+          { "text": "nothing", "correct": true },
+          { "text": "each member has a responsibility", "correct": false },
+          { "text": "whistling and ullulating", "correct": false },
+          { "text": "the immediate family convene secretely for burial", "correct": false }
         ]
       },
       {
