@@ -195,12 +195,12 @@
   "General Knowledge": {
     "Geography": [
       {
-        "question": "What is the capital of Zimbabwe?",
+        "question": "What is the capital of Lesotho?",
         "answers": [
-          { "text": "Harare", "correct": true },
-          { "text": "Bulawayo", "correct": false },
-          { "text": "Mutare", "correct": false },
-          { "text": "Gweru", "correct": false }
+          { "text": "Lilongwe", "correct": false },
+          { "text": "", "Mbabane": false },
+          { "text": "Maseru", "correct": true },
+          { "text": "Sao Tome", "correct": false }
         ]
       },
       {
@@ -217,6 +217,42 @@
       {
         "question": "When did Zimbabwe gain independence?",
         "answers": [
+          { "text": "1985", "correct": false },
+          { "text": "1975", "correct": false },
+          { "text": "1980", "correct": true },
+          { "text": "1965", "correct": false }
+        ]
+      },
+      {
+        "question": "Who played the character Mukadota?",
+        "answers": [
+          { "text": "Thomas Mapuranga", "correct": false },
+          { "text": "Peter Chingwena", "correct": false },
+          { "text": "Canaan Banana", "correct": false },
+          { "text": "Safirio Madzikatire", "correct": true }
+        ]
+      },
+      {
+        "question": "What was George Shaya known for?",
+        "answers": [
+          { "text": "book writing", "correct": false },
+          { "text": "football", "correct": true },
+          { "text": "athletics", "correct": false },
+          { "text": "rugby", "correct": false }
+        ]
+      },
+      {
+        "question": "Which list is wrong?",
+        "answers": [
+          { "text": "Sotho,Tonga,Xhosa", "correct": false },
+          { "text": "Chibarwe,Zulu,Shangani", "correct": true },
+          { "text": "English,Ndau,Kalanga", "correct": false },
+          { "text": "Chewa,Shangani,Tswana", "correct": false }
+        ]
+      },
+      {
+        "question": "When did Zimbabwe gain independence?",
+        "answers": [
           { "text": "1980", "correct": true },
           { "text": "1975", "correct": false },
           { "text": "1990", "correct": false },
@@ -224,12 +260,75 @@
         ]
       },
       {
-        "question": "Who was the first Prime Minister of Zimbabwe?",
+        "question": "What was the significance of the Great Zimbabwe?",
         "answers": [
-          { "text": "Robert Mugabe", "correct": true },
-          { "text": "Joshua Nkomo", "correct": false },
-          { "text": "Canaan Banana", "correct": false },
-          { "text": "Emmerson Mnangagwa", "correct": false }
+          { "text": "stone masonry", "correct": false },
+          { "text": "a water reseivor", "correct": false },
+          { "text": "trading empire", "correct": true },
+          { "text": "full of warriors", "correct": false }
+        ]
+      },
+      {
+        "question": "How many languages are spoken in Zimbabwe?",
+        "answers": [
+          { "text": "16", "correct": true },
+          { "text": "15", "correct": false },
+          { "text": "18", "correct": false },
+          { "text": "2", "correct": false }
+        ]
+      },
+      {
+        "question": "What is true about Zimbabwe?",
+        "answers": [
+          { "text": "got independnce in 1990", "correct": false },
+          { "text": "landlocked", "correct": true },
+          { "text": "home to the Black Stars", "correct": false },
+          { "text": "uses Kwacha currency", "correct": false }
+        ]
+      },
+      {
+        "question": "Which is wrong here?",
+        "answers": [
+          { "text": "Chipolopolo", "correct": true },
+          { "text": "Indomitable Lions", "correct": false },
+          { "text": "Sables", "correct": false },
+          { "text": "Bafana bafana", "correct": false }
+        ]
+      },
+      {
+        "question": "How many Heritage sites does Zimbabwe have?",
+        "answers": [
+          { "text": "3", "correct": false },
+          { "text": "5", "correct": true },
+          { "text": "7", "correct": false },
+          { "text": "none", "correct": false }
+        ]
+      },
+      {
+        "question": "Who wrote Black Sunlight?",
+        "answers": [
+          { "text": "Panashe Chigumhanzi", "correct": false },
+          { "text": "Yvone Vera", "correct": false },
+          { "text": "Tsisti Dangarembga", "correct": false },
+          { "text": "Dambudzo Marechera", "correct": true }
+        ]
+      },
+      {
+        "question": "The song Tango Pal was by....",
+        "answers": [
+          { "text": "Black Mambazo", "correct": true },
+          { "text": "Pax Afro", "correct": false },
+          { "text": "Pah Chiherah", "correct": false },
+          { "text": "Taso", "correct": false }
+        ]
+      },
+      {
+        "question": "Which list is correct?",
+        "answers": [
+          { "text": "Alick Macheso, Jah Prayzah, First Farai", "correct": true },
+          { "text": "Koffie Olomide,Rokie, Oliver Mtukudzi",  "correct": false },
+          { "text": "Winky D, Dadza D, Shingisai Siluma", "correct": false },
+          { "text": "Thomas Mapfumo, Chiwoniso Maraire, Stella Chiweshe", "correct": false }
         ]
       }
     ]
